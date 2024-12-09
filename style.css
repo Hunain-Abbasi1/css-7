@@ -1,0 +1,93 @@
+/* newsletter */
+.news{
+    text-align: center;
+    color: rgb(8, 8, 99);
+}
+.dabba{
+    height: 40px;
+    width: 400px;
+    border-radius: 5px;
+    border: 1px solid rgb(124, 121, 121);
+}
+.subscribe{
+    height: 45px;
+    width: 100px;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+.color{
+    background-color:whitesmoke;
+    padding: 20px 0px 30px 0px;
+}
+/* newsletter */
+/* links */
+.fog1{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin: 90px 160px 0px 110px;
+}
+.fog2{
+    color: rgb(8, 8, 99);
+    font-family: "Lato", sans-serif;
+
+}
+.img1{
+    margin: 0px 10px 0px 0px;
+}
+/* links */
+.cr1{
+    text-align: center;
+    color: blue
+}
+.cr2{
+    text-align: center;
+    color: rgb(21, 21, 59);
+}
+.kuch1{
+    border: 2px solid rgb(240, 237, 237);
+    height: 550px;
+    width: 300px;
+    border-radius: 10px ;
+    box-shadow: 5px 5px 5px rgb(201, 199, 199);
+    
+    
+}
+.kuch2{
+    padding: 5px;
+    text-align: center;
+    color: rgb(15, 15, 56);
+
+}
+.kuch3{
+    padding: 5px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.kuch4{
+    padding: 5px;
+    text-align: center;
+    
+}
+.kuch5{
+    align-items: center;
+    
+}
+.applynow{
+    color: blue;
+}
+.applynow:hover{
+   color: black;
+}
+.kuch{
+    display: flex;
+    gap: 70px;
+    margin-left: 100px;
+}
